@@ -1,0 +1,92 @@
+    1  neofetch
+    2  ls
+    3  sudo apt update
+    4  sudo apt upgrade
+    5  sudo apt install neofetch
+    6  sudo apt install git
+    7  mkdir folder1
+    8  ls
+    9  nano biodata.txt
+   10  cat biodata.txt
+   11  mkdir tugas1
+   12  cd
+   13  git --version
+   14  mkadir latihan-git
+   15  ls
+   16  cd latihan-git/
+   17  sudo apt install gh
+   18  ping google.com
+   19  sudo apt update
+   20  sudo apt install gh
+   21  gh --version
+   22  sudo apt update
+   23  sudo apt install chromium-browser
+   24  sudo apt update
+   25  sudo apt install chromium-browser
+   26  sudo apt update
+   27  sudo apt install chromium-browser
+   28  google-chrome
+   29  sudo apt install gdebi-core wget
+   30  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   31  sudo gdebi google-chrome-stable_current_amd64.deb
+   32  google-chrome
+   33  google-chrome --no-sandbox
+   34  gh auth user
+   35  gh auth status
+   36  code .
+   37  sudo apt install gh
+   38  gh auth login
+   39  gh auth status
+   40  google-chrome --no-sandbox
+   41  gh auth login
+   42  google-chrome
+   43  google-chrome --no-sandbox
+   44  gh auth status
+   45  code .
+   46  ls
+   47  mkdir latihan-git
+   48  ls
+   49  mkdir latihan-git
+   50  sudo adduser risevara
+   51  login risevara
+   52  cd ..
+   53  mkdir git-latihan
+   54  ls
+   55  cd git-latihan/
+   56  code .
+   57  git --version
+   58  gh --version
+   59  git --version
+   60  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   61  nvm --v
+   62  nvm install v.14.15.4
+   63  cat/etc/passwd
+   64  cat /etc/passwd
+   65  login risevara
+   66  cat /etc/passwd
+   67  login risevara
+   68  nano /etc/sudoers
+   69  visudo
+   70  usermod -aG sudo risevara
+   71  su - risevara
+   72  code .
+   73  clear
+   74  ls
+   75  clear
+   76  node --v
+   77  node -v
+   78  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   79  nvm --v
+   80  nvm install v14.15.4
+   81  node -v
+   82  clear
+   83  git clone https://github.com/misterpotabi/projek-uas-komdat  uas-komdat-24
+   84  ls
+   85  code .
+   86  cd uas-komdat-24/
+   87  ls
+   88  code .
+   89  npm install
+   90  npm run start
+   91  clear
+   92  history  > command-history.txt
